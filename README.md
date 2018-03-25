@@ -1,52 +1,52 @@
-# 中国科大开源镜像站（[USTC Mirrors](http://mirrors.ustc.edu.cn/)）新镜像及新功能申请
+# xTom 源鏡像站（[xTom Mirrors](https://mirror.xtom.com.hk/)）新鏡像及新功能申請
 
-* 增加新镜像或功能
-* 修改镜像配置
-* 报告镜像站故障
+* 增加新鏡像或功能
+* 修改鏡像配置
+* 報告鏡像站故障
 
-[点此提交](https://github.com/ustclug/mirrorrequest/issues/new)
+[點此提交](https://github.com/xtomcom/mirrorrequest/issues/new)
  
-## 申请新镜像
+## 申請新鏡像
 
-标题请使用这样的格式：*Parabola GNU/Linux-libre 软件仓库和ISO镜像*。全英文也可以。总之，在标题简要说明一下这个镜像的内容。
+標題請使用這樣的格式：*Parabola GNU/Linux-libre 軟件倉庫和ISO鏡像*。全英文也可以。總之，在標題簡要說明一下這個鏡像的內容。
 
-正文中请尽量说明以下内容：
+正文中請盡量說明以下內容：
 
-- 上游源（官方镜像）的地址
-- 该项目的介绍
-- 为什么希望添加该镜像
+- 上游源（官方鏡像）的地址
+- 該項目的介紹
+- 為什麼希望添加該鏡像
 
-提交 issue 后，您可以召唤小伙伴们通过评论等方式参与该 issue。USTC LUG 会接纳关注度比较高的镜像申请。
+提交 issue 後，您可以召喚小夥伴們通過評論等方式參與該 issue。xTom 會接納關注度比較高的鏡像申請。
 
 ### 如何投票
 
-请在 Github Issue 页面使用 Emoji :+1: 表情来投票。
-请参考[这里](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments)的使用说明。
+請在 Github Issue 頁面使用 Emoji :+1: 表情來投票。
+請參考[這裡](https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments)的使用說明。
 
-## 修改镜像配置
+## 修改鏡像配置
 
-标题举例：希望Rust源更新后改写toml文件,将链接指向本地
+標題舉例：希望 Rust 源更新後改寫 toml 文件,將鏈接指向本地
 
-请在正文中补充以下内容：
+請在正文中補充以下內容：
 
-* 需要修改的镜像名称
-* 具体的修改内容或方式
+* 需要修改的鏡像名稱
+* 具體的修改內容或方式
 * 修改原因
 
-## [报告镜像站故障](https://github.com/ustclug/discussions)
+## [報告鏡像站故障](https://github.com/xtomcom/xtom-mirrors/issues)
 
-请说明以下内容：
+請說明以下內容：
 
-* 故障镜像的名称
-* 首次观察到故障的时间
+* 故障鏡像的名稱
+* 首次觀察到故障的時間
 * 故障描述
-* 修复建议（如果有）
+* 修復建議（如果有）
 
-请在[这里](https://github.com/ustclug/discussions)提交
+請在[這裡](https://github.com/xtomcom/xtom-mirrors/issuess)提交
 
-# University of Science and Technology of China Open Source Mirrors New Mirror Request
+# xTom Open Source Mirrors New Mirror Request
 
-If you want [USTC mirrors](http://mirrors.ustc.edu.cn/) to add some new mirror or feature or modify the configration of exist mirror, plsese submit an [**issue**](https://github.com/ustclug/mirrorrequest/issues) in this repository. We will accept high vote project.
+If you want [xTom mirrors](https://mirror.xtom.com.hk/) to add some new mirror or feature or modify the configration of exist mirror, plsese submit an [**issue**](https://github.com/xtomcom/mirrorrequest/issues) in this repository. We will accept high vote project.
 
 ## request format
 
